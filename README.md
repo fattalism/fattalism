@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-  <img src="https://i.pinimg.com/originals/3b/6d/09/3b6d094f45dbd3c0ea7edb61f73034fc.gif" width="150"/>
+  <img src="https://i.pinimg.com/originals/86/0d/28/860d28e3b9ec8f6b4f8246b37c596721.gif" width="350"/>
   
   <div id="badges">
   <a href="https://twitter.com/NoufGahtani">
@@ -35,4 +35,3 @@ I'm full stack developer 👩🏻‍💻 from saudi
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
--->
