@@ -1,27 +1,21 @@
+# Nouf AL-Garabi 👩🏼‍🚀
 
-<div id="header" align="center">
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+**`Software developer`**
 
-  <img src="https://i.pinimg.com/originals/86/0d/28/860d28e3b9ec8f6b4f8246b37c596721.gif" width="350"/>
-  
+I'm a full-stack flutter developer, I love to automate thing and analyze data with python & SQL. 
+one of my many intersets is Computational neourosciense, ML, and Software Development.
+- 🌱 I’m currently learning data analysis and ML
+- 👯 I’m looking to collaborate on any flutter project
+- 📫 How to reach me: noufalgarabi@gmail.com
+
   <div id="badges">
   <a href="https://twitter.com/NoufGahtani">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </div>
-  
-</div>
 
-about me 🧑🏼‍🚀:
-
-I'm full stack developer 👩🏻‍💻 from saudi
-
-- 🌱 I’m currently learning data analysis and ML
-- 👯 I’m looking to collaborate on any flutter project
-- 📫 How to reach me: noufalgarabi@gmail.com
+---
+### 🧰 Languages and Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -35,5 +29,5 @@ I'm full stack developer 👩🏻‍💻 from saudi
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" **alt="figma" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="postgresSQL" **alt="postgresSQL" width="40" height="40"/>
 </div>
-
