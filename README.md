@@ -2,7 +2,7 @@
 
 **`Software developer`**
 
-I'm a full-stack flutter developer, I love to automate thing and analyze data with python & SQL. 
+I'm a full-stack flutter developer, I love to automate tasks and analyze data with python & SQL. 
 one of my many intersets is Computational neourosciense, ML, and Software Development.
 - 🌱 I’m currently learning data analysis and ML
 - 👯 I’m looking to collaborate on any flutter project
