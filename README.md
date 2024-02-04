@@ -1,9 +1,8 @@
-# Nouf AL-Garabi 👩🏼‍🚀
+# Nouf AL-Garabi 🐚
 
 **`Software developer`**
 
-I'm a full-stack flutter developer, I love to automate tasks and analyze data with python & SQL. 
-one of my many intersets is Computational neourosciense, ML, and Software Development.
+Full-stack flutter development | Machine Learning | Data Analysis
 
 - 📫 How to reach me: noufalgarabi@gmail.com
 
