@@ -1,10 +1,8 @@
 # Nouf AL-Garabi 🐚
 
-**`Software developer`**
+**`ML Engineer - not really- `**
 
-Full-stack flutter development | Machine Learning | Data Analysis
-
-- 📫 How to reach me: noufalgarabi@gmail.com
+ML | APP/WEB DEV
 
   <div id="badges">
   <a href="https://twitter.com/NoufGahtani">
